@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "name": "John Smith",
+    "location": "New York, NY",
+    "rating": 5,
+    "comment": "Our wedding was an incredible experience, thanks to your team. Every detail, from decor to entertainment, was flawless. We're truly grateful!",
+    "authorImgLink": "https://i.ibb.co/FVTc03Q/client1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Emily Johnson",
+    "location": "Los Angeles, CA",
+    "rating": 4,
+    "comment": "Your work on our corporate event was impressive. Attention to detail and professionalism stood out. We look forward to future collaborations.",
+    "authorImgLink": "https://i.ibb.co/ZN1Zv2Q/client2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Sarah Davis",
+    "location": "Chicago, IL",
+    "rating": 5,
+    "comment": "Our charity gala's success is all thanks to your expertise. Your ability to understand our vision and execute it is commendable.",
+    "authorImgLink": "https://i.ibb.co/7S3tvRx/client3.jpg"
+  },
+  {
+    "id": 4,
+    "name": "David Brown",
+    "location": "Miami, FL",
+    "rating": 4,
+    "comment": "You made my milestone birthday unforgettable. The creativity in theme and decor left everyone in awe.",
+    "authorImgLink": "https://i.ibb.co/hyBFwKF/client4.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Megan White",
+    "location": "San Francisco, CA",
+    "rating": 5,
+    "comment": "Planning my daughter's sweet sixteen was stressful, but your team handled everything. The party was a huge hit, and she loved it!",
+    "authorImgLink": "https://i.ibb.co/bgs7xMY/client5.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Robert Johnson",
+    "location": "Austin, TX",
+    "rating": 4,
+    "comment": "Impressive work on our product launch event. Your strategic thinking and execution ensured a memorable event for our clients.",
+    "authorImgLink": "https://i.ibb.co/dkNRJcm/client6.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Hannah Miller",
+    "location": "Seattle, WA",
+    "rating": 5,
+    "comment": "Our anniversary celebration was made special by your team. Perfect ambiance and entertainment. A night to remember!",
+    "authorImgLink": "https://i.ibb.co/qNHYQyj/client7.jpg"
+  }
+]
